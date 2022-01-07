@@ -3,4 +3,6 @@ restore and backup
 synchronization
 undo
 sandboxing
-branching
+
+git pool
+git fetch+git merge
