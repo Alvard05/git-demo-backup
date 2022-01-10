@@ -9,3 +9,4 @@ git fetch+git merge
  add three lines
 fast forward merge
 non fast forward merge
+----------------
