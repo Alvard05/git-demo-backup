@@ -6,7 +6,3 @@ sandboxing
 
 git pool
 git fetch+git merge
-
-git reset --soft
-git reset --mixed
-git reset --hard
